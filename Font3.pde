@@ -1,3 +1,9 @@
+/**
+     A 'O' drawn by verticle lines following the profile of 2 bezier curves.
+     wang ying hsuan 26/08/2012
+     ying_hsuan52@hotmail.com
+  */
+
 size(400,400);
 background(255);
 noFill();
